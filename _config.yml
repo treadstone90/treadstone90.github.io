@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Yet another blog from yet another engineer
+tagline:             Ramblings..
+url:                 http://treadstone90.github.io
 paginate:            1
 baseurl:             ""
 
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Karthik A
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             treadstone90@gmail.com
 
 # Custom vars
 version:             1.0.0
