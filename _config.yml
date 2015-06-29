@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Yet another blog from yet another engineer
-tagline:             Ramblings..
+title:               I blog here
+tagline:             and ramble ..
 url:                 http://treadstone90.github.io
 paginate:            1
 baseurl:             ""
